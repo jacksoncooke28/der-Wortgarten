@@ -82,8 +82,6 @@ If you answer incorrectly, the plant wilts back to 🥀.
 
 Words persist in the SQLite database so your progress is saved.
 
-📸 Screenshots (Optional)
-(Add screenshots or GIFs of the app here)
 
 📜 License
 MIT License — free to use, modify, and share.
